@@ -1,12 +1,11 @@
 # Kelompok 4 – Website Dapur UNI
 
 Repository ini berisi dokumentasi dan hasil pengembangan **Website Dapur UNI**,  
-sebuah sistem website pemesanan katering yang dikembangkan sebagai bagian dari tugas mata kuliah  
+yaitu website pemesanan katering yang dibuat sebagai bagian dari tugas mata kuliah  
 **Pengelolaan Proyek Sistem Informasi (PPSI)**.
 
-Website Dapur UNI dirancang untuk membantu pengguna dalam melihat informasi menu,  
-mengecek ketersediaan jadwal pemesanan, serta melakukan pemesanan katering secara terstruktur  
-melalui integrasi dengan WhatsApp dan Google Spreadsheet.
+Website Dapur UNI digunakan untuk menampilkan informasi menu, mengecek ketersediaan jadwal,  
+serta membantu proses pemesanan katering melalui integrasi WhatsApp dan Google Spreadsheet.
 
 ---
 
@@ -30,8 +29,8 @@ https://dapuruniid.github.io/Dapur_Uni/
 
 ## 📂 Struktur Repository
 
-Repository ini menyimpan berbagai artefak proyek yang disusun berdasarkan tahapan  
-pengembangan sistem serta pembagian peran dalam tim sebagai berikut:
+Repository ini menyimpan dokumen dan file proyek yang dikelompokkan berdasarkan  
+peran masing-masing anggota dalam pengembangan sistem.
 
 ### 🔹 Project Manager (PM)
 - Identifikasi Kebutuhan (Wawancara)  
@@ -41,31 +40,31 @@ pengembangan sistem serta pembagian peran dalam tim sebagai berikut:
 - WBS Agile  
 - Gantt Chart (seluruh versi)  
 - PERT  
-- Video Presentasi WBS (4 role menjelaskan tugas)  
-- Laporan Akhir (bagian manajemen proyek dan keseluruhan)  
+- Video Presentasi WBS  
+- Laporan Akhir  
 
 ### 🔹 System Analyst (SA)
 - BPMN  
-- Requirement Document (seluruh versi: awal, 1.0, 1.1, dan final)  
-- Software Requirement Specification (SRS) versi 1.0 dan 1.1  
+- Requirement Document (seluruh versi)  
+- Software Requirement Specification (SRS)  
 - Dokumen User Acceptance Test (UAT)  
 - Laporan Perbaikan Website  
 
 ### 🔹 Designer
-- Software Design Document (SDD) seluruh versi (1.0, 1.1, 1.2, dan 1.3 Final)  
-- Video Presentasi Desain (Apip & Client)  
-- Video Presentasi Desain versi final  
+- Software Design Document (SDD) (seluruh versi)  
+- Video Presentasi Desain  
 - Manual Book  
 
 ### 🔹 Programmer
 - Document Implementation  
 - Folder Website Dapur UNI (versi 1.0, 1.1, dan 1.2 Final)  
 - Link Website  
-- Link Video UAT (implementasi dan hasil eksekusi sistem)  
+- Link Video UAT  
 - Technical Guide  
 
-File hasil pengerjaan sebelumnya tetap dipertahankan untuk menunjukkan **timeline dan progres pengerjaan**,  
-sedangkan file unggah ulang diberi penamaan khusus sesuai dengan **role penanggung jawab**.
+File yang diunggah sebelumnya tetap dipertahankan untuk menunjukkan  
+proses dan waktu pengerjaan proyek.  
+File hasil unggah ulang dibedakan melalui penamaan file sesuai peran masing-masing.
 
 ---
 
@@ -83,7 +82,6 @@ sedangkan file unggah ulang diberi penamaan khusus sesuai dengan **role penanggu
 ## 📌 Catatan
 
 Repository ini digunakan untuk keperluan **akademik** dan dokumentasi proyek perkuliahan.  
-Pengembangan sistem dilakukan secara bertahap sesuai dengan prinsip  
-manajemen proyek sistem informasi.
+Pengembangan website dilakukan secara bertahap sesuai dengan pembagian tugas dalam kelompok.
 
 ---
