@@ -75,7 +75,8 @@ File hasil unggah ulang dibedakan melalui penamaan file sesuai peran masing-masi
 - JavaScript (Vanilla)  
 - Google Apps Script  
 - Google Sheets  
-- GitHub Pages  
+- GitHub Pages
+- Visual Studio Code
 
 ---
 
