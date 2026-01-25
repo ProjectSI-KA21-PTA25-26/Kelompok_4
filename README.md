@@ -35,17 +35,17 @@ peran masing-masing anggota dalam pengembangan sistem.
 ### 🔹 Project Manager (PM)
 - Identifikasi Kebutuhan (Wawancara)  
 - Presentasi Mengenai Bisnis Klien  
-- Project Charter (docx dan pdf)  
+- Project Charter  
 - Work Breakdown Structure (WBS)  
 - WBS Agile  
-- Gantt Chart (seluruh versi)  
+- Gantt Chart  
 - PERT  
 - Video Presentasi WBS  
 - Laporan Akhir  
 
 ### 🔹 System Analyst (SA)
 - BPMN  
-- Requirement Document (seluruh versi)  
+- Requirement Document (RD) (seluruh versi)  
 - Software Requirement Specification (SRS)  
 - Dokumen User Acceptance Test (UAT)  
 - Laporan Perbaikan Website  
