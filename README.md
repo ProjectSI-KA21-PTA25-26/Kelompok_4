@@ -86,3 +86,10 @@ Repository ini digunakan untuk keperluan **akademik** dan dokumentasi proyek per
 Pengembangan website dilakukan secara bertahap sesuai dengan pembagian tugas dalam kelompok.
 
 ---
+
+## 📸 Foto dengan Klien 📸
+
+![alt text](https://github.com/ProjectSI-KA21-PTA25-26/Kelompok_4/blob/main/foto%20dengan%20klien.jpeg?raw=true)
+
+---
+
