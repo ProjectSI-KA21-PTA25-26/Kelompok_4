@@ -70,13 +70,13 @@ File hasil unggah ulang dibedakan melalui penamaan file sesuai peran masing-masi
 
 ## 🛠️ Teknologi yang Digunakan
 
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla)  
-- Google Apps Script  
-- Google Sheets  
-- GitHub Pages
-- Visual Studio Code
+- HTML5 – Struktur dan kerangka halaman website
+- CSS3 – Pengaturan tampilan visual dan desain responsif
+- JavaScript (Vanilla) – Logika utama sistem, validasi input, pemrosesan data, manajemen jadwal, dan integrasi WhatsApp
+- Google Apps Script – Backend ringan (serverless) untuk pengelolaan dan sinkronisasi data
+- Google Sheets – Media penyimpanan data menu, jadwal, dan pesanan (simple database)
+- GitHub Pages – Layanan hosting statis untuk deployment website
+- Visual Studio Code – Code editor utama dalam proses pengembangan
 
 ---
 
